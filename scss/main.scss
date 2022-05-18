@@ -1,12 +1,2 @@
-.container{
-    margin: 20px auto;
-    padding: 0;
-    display: flex;
-}
 
-$blue:rgb(255, 214, 34);
-
-
-h3{
-    color:$blue
-}
+@import"../../node_modules/bootstrap/scss/bootstrap.scss"
